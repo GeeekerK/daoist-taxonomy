@@ -109,34 +109,90 @@
 
 ## 放入 Kindle · Into Kindle
 
-分类的目的，是让书「可取用」。Kindle 很适合做随身的「天道」书架。
+这一节讲 **实操**：在 Kindle 里怎么命名、怎么建收藏夹，让「道法术器」真的能用起来。
 
-### 推荐做法
+### 1. 收藏夹命名（Collections）——推荐固定写法
 
-1. **用 Collections（收藏夹）建四层**  
-   - `01-道 Dao`  
-   - `02-法 Fa`  
-   - `03-术 Shu`  
-   - `04-器 Qi`  
-2. **书名或笔记里标主层**（可选）  
-   - 例：`[道] 道德经`、`[术] Fluent Python`  
-3. **推送 / 同步**  
-   - 官方：Send-to-Kindle（邮件或 App）  
-   - 进阶：Calibre 管理书库 → 按四层建虚拟书架 → 同步到设备  
-4. **阅读节奏**  
-   - 通勤 / 碎片：偏「术」「器」  
-   - 大块时间：偏「道」「法」  
-5. **读完回流**  
-   - 把高亮导出，按四层归档到笔记（Obsidian / 博客 / 纸质本皆可）
+在 Kindle 主页 → **收藏** → **新建收藏**，建这四个（名称建议原样复制，方便排序）：
 
-### Kindle 文件夹心智图
+| 收藏夹全名 | 简写 | 放什么 |
+| --- | --- | --- |
+| `01·道 Dao` | 道 | 根本道理、方向、价值观 |
+| `02·法 Fa` | 法 | 原则、框架、方法论 |
+| `03·术 Shu` | 术 | 步骤、技巧、实操教程 |
+| `04·器 Qi` | 器 | 工具说明书、设备、模板、工作流 |
+
+**命名规则（建议遵守）：**
+
+1. **数字前缀 `01`–`04`**：保证在列表里按层次排序，不会被拼音打乱  
+2. **中点 `·` + 汉字 + 英文**：一眼双语可读  
+3. **不要改成「哲学」「计算机」等学科名**：收藏夹只表示「层次」，学科信息写在书名或笔记里  
+
+可选第五个垃圾桶层（不计入四层）：
+
+- `00·待分 Inbox` —— 新书先丢这里，周末再归层  
+
+### 2. 单本书怎么命名 / 标注
+
+Kindle 上多数书的官方书名改不了；用下面两种办法之一即可。
+
+**办法 A（推荐）：只靠收藏夹，不改书名**
+
+- 一本书可以同时进多个收藏（例如主层「法」、辅层「术」）  
+- 主层必进一个；辅层可选  
+
+**办法 B：在「个人文档」书名或笔记标题里加前缀**
+
+若是你自己推送的 PDF / EPUB / TXT，推送前把文件名改成：
 
 ```text
-Kindle /
-├── 01-道 Dao      ← 方向与根本
-├── 02-法 Fa       ← 原则与框架
-├── 03-术 Shu      ← 步骤与技巧
-└── 04-器 Qi       ← 工具与载体
+[道] 道德经.md
+[法] 思考·快与慢.epub
+[术] Fluent-Python.epub
+[器] Kindle-快捷键与批注手册.pdf
+```
+
+前缀规范：
+
+| 前缀 | 含义 |
+| --- | --- |
+| `[道]` / `[Dao]` | 主层＝道 |
+| `[法]` / `[Fa]` | 主层＝法 |
+| `[术]` / `[Shu]` | 主层＝术 |
+| `[器]` / `[Qi]` | 主层＝器 |
+| `[法/术]` | 跨层：主法辅术 |
+
+### 3. 设备上逐步操作（Paperwhite / Oasis / Kindle App 通用思路）
+
+1. 打开书库 → 筛选 **收藏**  
+2. 新建上述 4 个（+ 可选 Inbox）收藏夹  
+3. 长按某本书 → **添加到收藏** → 勾选对应层  
+4. 打开某个收藏夹 → 确认只看到该层的书  
+5. 新书进库：先丢进 `00·待分 Inbox`，读两章或看目录后再归层  
+
+### 4. 和 Calibre 联用时的命名（可选）
+
+若用 Calibre 管理再同步到 Kindle：
+
+- 用自定义列或标签：`layer:dao` / `layer:fa` / `layer:shu` / `layer:qi`  
+- 发送到设备时，按标签生成与上面同名的收藏夹  
+- 文件名仍可用 `[道]` 前缀，和收藏夹双保险  
+
+### 5. 最小可行规范（抄这个就能开工）
+
+```text
+收藏夹：
+  01·道 Dao
+  02·法 Fa
+  03·术 Shu
+  04·器 Qi
+  00·待分 Inbox   （可选）
+
+自推文档文件名：
+  [道] 书名.ext
+  [法] 书名.ext
+  [术] 书名.ext
+  [器] 书名.ext
 ```
 
 ---
@@ -210,13 +266,36 @@ Qi  → what you hold
 4. One-line note after reading: `title | layer | effect on me`  
 5. **Put them into Kindle** so the map travels with you  
 
-### Into Kindle
+### Into Kindle — naming & filing (hands-on)
 
-1. Create four **Collections**: `01-Dao` · `02-Fa` · `03-Shu` · `04-Qi`  
-2. Optionally prefix titles: `[Dao] …` / `[Shu] …`  
-3. Send-to-Kindle or Calibre → sync  
-4. Fragments of time → Shu / Qi; deep blocks → Dao / Fa  
-5. Export highlights back into your notes, still tagged by layer  
+**Collection names (copy as-is for sort order):**
+
+| Collection | Holds |
+| --- | --- |
+| `01·道 Dao` | fundamentals / direction |
+| `02·法 Fa` | principles / frameworks |
+| `03·术 Shu` | procedures / skills |
+| `04·器 Qi` | tools / devices / templates |
+| `00·待分 Inbox` *(optional)* | unsorted new titles |
+
+**Rules:** numeric prefix for order; `·` + Chinese + English; collections encode *layer*, not academic subject.
+
+**Per-book labeling:**
+
+- Prefer Collections only (a book may sit in one primary + one secondary collection).  
+- For self-sent files, rename before Send-to-Kindle:
+
+```text
+[Dao] title.ext
+[Fa] title.ext
+[Shu] title.ext
+[Qi] title.ext
+[Fa/Shu] title.ext   # primary / secondary
+```
+
+**On device:** Library → Collections → create the four → long-press a book → Add to collection → file new books via Inbox first.
+
+**Calibre (optional):** tag `layer:dao|fa|shu|qi`, mirror the same collection names on sync.
 
 ---
 
