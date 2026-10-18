@@ -1,7 +1,7 @@
 <p align="center">
-  <h1 align="center">道 · 法 · 术 · 器</h1>
-  <h3 align="center"><samp>Dao · Fa · Shu · Qi</samp></h3>
-  <p align="center"><samp>A Daoist lens for classifying books — and reading with intention</samp></p>
+  <h1 align="center">Daoist Book Taxonomy</h1>
+  <h3 align="center"><samp>道 · 法 · 术 · 器 &nbsp;·&nbsp; Dao · Fa · Shu · Qi</samp></h3>
+  <p align="center"><samp>A Daoist four-layer lens for classifying books — and reading with intention</samp></p>
   <p align="center">
     <img src="https://img.shields.io/badge/Reading-Method-1F4E79?style=for-the-badge" alt="Reading"/>
     <img src="https://img.shields.io/badge/Bilingual-中英-0A7A3E?style=for-the-badge" alt="Bilingual"/>
