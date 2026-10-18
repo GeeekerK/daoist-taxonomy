@@ -1,7 +1,7 @@
 <p align="center">
-  <h1 align="center">Daoist Book Taxonomy</h1>
+  <h1 align="center">Daoist Taxonomy</h1>
   <h3 align="center"><samp>道 · 法 · 术 · 器 &nbsp;·&nbsp; Dao · Fa · Shu · Qi</samp></h3>
-  <p align="center"><samp>A Daoist four-layer lens for classifying books — and reading with intention</samp></p>
+  <p align="center"><samp>A Daoist four-layer lens for classifying knowledge, practice & tools</samp></p>
   <p align="center">
     <img src="https://img.shields.io/badge/Reading-Method-1F4E79?style=for-the-badge" alt="Reading"/>
     <img src="https://img.shields.io/badge/Bilingual-中英-0A7A3E?style=for-the-badge" alt="Bilingual"/>
@@ -49,7 +49,7 @@
 
 # **道 · 法 · 术 · 器**
 
-先把书分好层，再放进你的「天道」书架（实体 / 数字 / Kindle）。  
+先把材料分好层（书、课、项目、工具皆可），再放进你的「天道」体系（实体 / 数字 / Kindle）。  
 之后每次拿起一本，你会立刻知道：**它是在哪个层次上对你起作用。**
 
 ### 为什么不用传统学科分类？
@@ -60,11 +60,11 @@
 | --- | --- | --- |
 | 维度 | 按学科领域切块 | 按对「人」起作用的层次 |
 | 数量 | 十几个甚至更多门类 | **4** 层 |
-| 目的 | 便于图书馆编目与检索 | 便于个人读书、取用与成长 |
+| 目的 | 便于图书馆编目与检索 | 便于个人学习、取用与成长 |
 | 体验 | 「这本书属于哪一科？」 | 「这本书在改变我的哪一层？」 |
 
 道法术器不是要取代图书馆学，而是给个人读者一把更锋利的刀：  
-**少分类、看层次、服务自己的读书需求。**
+**少分类、看层次、服务自己的学习与实践需求。**
 
 ---
 
@@ -225,7 +225,7 @@ So here is a lighter taxonomy, borrowed from the Daoist fourfold:
 
 # **Dao · Fa · Shu · Qi**
 
-Classify first. Then place books into your personal “Heavenly Way” shelf — physical, digital, or **Kindle**.  
+Classify first. Then place materials (books, courses, projects, tools) into your personal “Heavenly Way” system — physical, digital, or **Kindle**.  
 Every time you pick one up, you already know **which layer of you it is meant to work on**.
 
 ### Why not only use academic subject categories?
@@ -236,11 +236,11 @@ Library subject schemes are powerful — and often too heavy for personal readin
 | --- | --- | --- |
 | Axis | Field / discipline | Layer of effect on a person |
 | Count | Dozens of classes | **Four** layers |
-| Goal | Catalog & retrieve | Orient, choose, grow |
+| Goal | Catalog & retrieve | Learn, choose, grow |
 | Question | “Which subject is this?” | “Which layer of me does this change?” |
 
 This method does not replace librarianship.  
-It is a personal blade: **fewer buckets, clearer layers, in service of your own reading life.**
+It is a personal blade: **fewer buckets, clearer layers, in service of how you learn and practice.**
 
 ### The four layers (quick map)
 
@@ -258,7 +258,7 @@ Shu → how the hands move
 Qi  → what you hold
 ```
 
-### Serving your own reading needs
+### Serving your own learning needs
 
 1. Build four shelves: Dao / Fa / Shu / Qi  
 2. Ask one question per book: *which layer is primary?*  
@@ -320,5 +320,5 @@ Open an Issue or PR. Keep it kind, keep it useful.
 - X: [@0xLoKiETH](https://x.com/0xLoKiETH)
 
 <p align="center">
-  <samp>先分类，再阅读 · Classify first, then read</samp>
+  <samp>先分类，再阅读 · Classify first, then practice</samp>
 </p>
