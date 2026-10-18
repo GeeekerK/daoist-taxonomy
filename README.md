@@ -14,8 +14,7 @@
   <samp>
     <a href="#中文">中文</a> ·
     <a href="#english">English</a> ·
-    <a href="#道法术器四层--the-four-layers">四层</a> ·
-    <a href="#放入-kindle--into-kindle">Kindle</a>
+    <a href="#放入-kindle--into-kindle">Kindle实例</a>
   </samp>
 </p>
 
